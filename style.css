@@ -1,0 +1,7 @@
+.rusty-wrap {
+  position: relative;
+}
+
+.rusty-wrap .button-primary {
+    vertical-align: top;
+}
